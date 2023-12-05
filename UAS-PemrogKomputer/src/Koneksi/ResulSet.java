@@ -8,6 +8,6 @@ package Koneksi;
  *
  * @author ACER
  */
-public class java {
+class ResulSet {
     
 }
